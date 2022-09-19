@@ -9,9 +9,8 @@
 - Bootstrap
 - GIT GitHub
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+## Live Demo
+https://wwwchampstube.netlify.app/
 
 
 ## Getting Started
