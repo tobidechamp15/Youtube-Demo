@@ -9,6 +9,8 @@
   height: 5px;
   width: 5px;
 }
+/* EDITING SCROLLBAR */
+
 /* width */
 ::-webkit-scrollbar {
   width: 5px;
@@ -61,9 +63,9 @@
   text-align: start;
   letter-spacing: normal;
 }
-.conttent{
-    gap: 10px;
-    flex-wrap: wrap;
+.conttent {
+  gap: 10px;
+  flex-wrap: wrap;
 }
 
 .side {
@@ -96,18 +98,18 @@
 .sideimg {
   height: 25px;
 }
-.cardss>img{
-    width: 264px;
-    height: 148px;
+.cardss > img {
+  width: 264px;
+  height: 148px;
 }
-.cardss{
-    width: 264px !important;
-    /* height: 148px !important; */
+.cardss {
+  width: 264px !important;
+  /* height: 148px !important; */
 }
-.navright{
+.navright {
   width: 24px;
 }
-.custom-border{
+.custom-border {
   border: none;
   border-radius: 50%;
   height: 38px;
@@ -117,41 +119,41 @@
   margin-left: 0;
   margin-right: 0;
 }
-.yt-vid-thumbnails{
+.yt-vid-thumbnails {
   gap: 10px;
   margin-top: 25px;
 }
-.yt-vid-thumbnail{
+.yt-vid-thumbnail {
   height: 150px;
-  width: 100%
+  width: 100%;
 }
-.custom-time{
+.custom-time {
   top: 129px;
   right: 10px;
   font-size: 12px;
   font-family: Roboto;
 }
-.logo{
+.logo {
   width: 36px;
   height: 36px;
   padding: 0%;
-} 
-.vidpage{
+}
+.vidpage {
   background-color: #f9f9f9;
 }
-.details{
+.details {
   font-size: 14px;
   font-family: Roboto;
   margin-left: 10px;
   display: flex;
   width: 100%;
 }
-.detmnb{
+.detmnb {
   width: 15px;
   height: 15px;
   margin-top: 4px;
 }
-.detnm{
+.detnm {
   color: #606060;
   font-size: 12px;
   line-height: 18px;
