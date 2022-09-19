@@ -1,6 +1,6 @@
 # Youtube-Demo
 
-> Description the project.
+> I created a platform for helping users to post live changing videos for others to make an impact in our world..
 
 
 ## Built With
@@ -23,32 +23,20 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+Have Vscode installed
+Liveserver
 
 ### Setup
+Clone the reprository
+Open with liveserver
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
+## Author
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/tobidechamp15)
+- Twitter: [@twitterhandle](https://twitter.com/tobidechamp15)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tobiloba-oluwadare-4bba71249/)
 
 ## 🤝 Contributing
 
