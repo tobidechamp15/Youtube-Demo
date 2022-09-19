@@ -1,204 +1,232 @@
 * {
-    box-sizing: border-box;
-  }
-.custom-top{
-    padding: 0px 16px;
+  box-sizing: border-box;
+}
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: blur;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.custom-top {
+  padding: 0px 16px;
+}
+.custom-menu {
+  height: 24pxx;
+  width: 24px;
+}
+.yt-name {
+  width: 122px;
+  height: 24px;
+}
+.navright {
+  width: 24px;
+}
+.custom-border {
+  border: none;
+  border-radius: 50%;
+  height: 38px;
+  width: 38px;
+}
+.custom-bg {
+  background-color: #f9f9f9;
+  height: fit-content;
+  padding: 0px 12px;
+}
+.yt-page {
+  padding: 15px;
+}
+.yt-vid-main {
+  height: 300px;
+}
+.custom-yt-title {
+  font-size: 18px;
+  letter-spacing: normal;
+  line-height: 26px;
+  font-family: Roboto;
+  color: #030303;
+}
+.yt-views {
+  font-size: 10px;
+  letter-spacing: normal;
+  line-height: 20px;
+  font-family: Roboto;
+  width: fit-content;
+}
+.custom-review {
+  width: 24px;
+  height: 24px;
+}
+.custom-review-value {
+  letter-spacing: 0.5px;
+  font-size: 14px;
+  line-height: normal;
+}
+.custom-overflow {
+  overflow: auto;
+  display: flex;
+  justify-content: space-between;
 
 }
-.custom-menu{
-    height: 24pxx;
-    width: 24px;
+.split {
+  border-color: #000000 opacity 20%;
 }
-.yt-name{
-    width: 122px;
-    height: 24px;
+.custom-ads {
+  width: 48px;
+  height: 48px;
 }
-.navright{
-    width: 24px;
+.ads-logo {
+  border-radius: 50%;
+  height: 48px;
+  width: 48px;
 }
-.custom-border{
-    border: none;
-    border-radius: 50%;
-    height: 38px;
-    width: 38px;
-}
-.custom-bg{
-    background-color: #f9f9f9;
-    height: fit-content;
-    padding: 0px 12px;
+.yt-logo-name {
+  font-size: 14px;
+  color: #030303;
+  font-family: Roboto;
 
+  cursor: pointer;
+  /* margin-right: 327px;
+  overflow: hidden; */
 }
-.yt-page{
-    padding: 15px;
+.custom-ytlogos{
+    padding: 0px 123px 0px 53px;
 }
-.yt-vid-main{
-    height: 300px;
-}
-.custom-yt-title{
-    font-size: 18px;
-    letter-spacing: normal;
-    line-height: 26px;
-    font-family: Roboto;
-    color: #030303;
-}
-.yt-views{
-    font-size: 14px;
-    letter-spacing: normal;
-    line-height: 20px;
-    font-family: Roboto;
-    width: fit-content;
-}
-.custom-review{
-    width: 24px;
-    height: 24px;
-}
-.custom-review-value{
-    letter-spacing: 0.5px;
-    font-size: 14px;
-    line-height: normal;
-}
-.custom-overflow{
-    overflow: auto;
-}
-.split{
-    border-color: #000000 opacity 20%;
-}
-.custom-ads{
-   width: 48px;
-   height: 48px; 
-}
-.ads-logo{
-    border-radius: 50%;
-    height: 48px;
-    width: 48px;
-    
-}
-.yt-logo-name{
-    font-size: 14px;
-    color: #030303;
-    font-family: Roboto;
-    cursor: pointer;
-    margin-right: 212px;
-}
-yt-subs{
-    font-size: 12px;
-    line-height: 18px;
-    letter-spacing: normal;
-    color: #606060;
+yt-subs {
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: normal;
+  color: #606060;
 }
 .button {
-    background-color: red;
-    border: none;
-    color: white;
-    display: flex;
-    align-items: flex-end;
-    padding: 9px 26px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
+  background-color: red;
+  border: none;
+  color: white;
+  display: flex;
+  align-items: flex-end;
+  padding: 9px 26px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
-textarea{
-    border-top: none;
-    border-left: none;
-    border-right: none;
-    outline: none;
-    width: 90%;
-    height: 25px;
+textarea {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  width: 90%;
+  height: 25px;
 }
-.custom-pin{
-    width: 12px;
-    height: 12px;
-    margin-top: 3px;
+.custom-pin {
+  width: 12px;
+  height: 12px;
+  margin-top: 3px;
 }
-.custom-pinner{
-    font-size: 10px;
-    font-family: Roboto;
-    color: #606060;
+.custom-pinner {
+  font-size: 10px;
+  font-family: Roboto;
+  color: #606060;
 }
-.verfied-user{
-    font-size: 10px;
-    font-family: Roboto;  
-    color: white;  
+.verfied-user {
+  font-size: 10px;
+  font-family: Roboto;
+  color: white;
 }
-.custom-reviewer{
-    border-radius: 12px;
-    background-color: #606060;
-    padding: 5px;
-    align-items: center;
-    justify-content: center;
-    width: fit-content;
+.custom-reviewer {
+  border-radius: 12px;
+  background-color: #606060;
+  padding: 5px;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
 }
-.custom-time-posted{
-    font-size: 12px;
+.custom-time-posted {
+  font-size: 12px;
 }
-.custom-comments-reviews{
-    width: 16px;
-    height: 16px;
+.custom-comments-reviews {
+  width: 16px;
+  height: 16px;
 }
-.custom-likes-number{
-    font-size: 12px;
-    margin-left: 8px;
+.custom-likes-number {
+  font-size: 12px;
+  margin-left: 8px;
 }
-.custom-active-button{
-    background-color: transparent;
-    border: none;
-    color: #030303;
-    display: flex;
-    align-items: flex-end;
-    padding: 9px 26px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 14px;
-    cursor: pointer;
+.custom-active-button {
+  background-color: transparent;
+  border: none;
+  color: #030303;
+  display: flex;
+  align-items: flex-end;
+  padding: 9px 26px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  cursor: pointer;
 }
-.custom-disabled-button{
-    background-color: #EBE6E6;
-    border: none;
-    color: #030303;
-    display: flex;
-    align-items: flex-end;
-    padding: 3px 15px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 14px;
-    cursor: not-allowed;
+.custom-disabled-button {
+  background-color: #ebe6e6;
+  border: none;
+  color: #030303;
+  display: flex;
+  align-items: flex-end;
+  padding: 3px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  cursor: not-allowed;
 }
-.custom-commenter{
-    font-size: 13px;
-    font-family: Roboto;
-    color: #030303;
-    font-weight: bolder;
+.custom-commenter {
+  font-size: 13px;
+  font-family: Roboto;
+  color: #030303;
+  font-weight: bolder;
 }
-.custom-comments-bdy{
-    font-size: 14px;
+.custom-comments-bdy {
+  font-size: 14px;
 }
-.cusrom-right-list{
-    border-radius: 15px;
-    font-family: Roboto;
-    font-size: 16px;
-    background-color: #DFD9D9;
-    padding: 8px 13px;
+.cusrom-right-list {
+  border-radius: 15px;
+  font-family: Roboto;
+  font-size: 16px;
+  background-color: #dfd9d9;
+  padding: 8px 13px;
 }
-.yt-right-video{
-    width: 50%;
-    height: 95px;
+.yt-right-video {
+  width: 50%;
+  height: 95px;
 }
-.yt-right-videoname{
-    font-size: 14px;
-    font-family: Roboto;
+.yt-right-videoname {
+  font-size: 14px;
+  font-family: Roboto;
 }
-.yt-right-videoowner{
-    color: #606060;
-    font-size: 12px;
-    font-family: Roboto;
+.yt-right-videoowner {
+  color: #606060;
+  font-size: 12px;
+  font-family: Roboto;
 }
-.custom-yt-time{
-    padding: 3px;
-    position: absolute;
-    display: flex;
+.custom-yt-time {
+  padding: 3px;
+  position: absolute;
+  display: flex;
+}
+.custom-size-images{
+    height: 100px;
 }
