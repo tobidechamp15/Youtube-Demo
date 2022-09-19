@@ -69,6 +69,10 @@ a:active {
 .custom-review {
   width: 24px;
   height: 24px;
+  
+}
+.customm{
+    margin-left: 18px;
 }
 .custom-review-value {
   letter-spacing: 0.5px;
