@@ -1,6 +1,6 @@
 # Youtube-Demo
 
-> I created a platform for helping users to post live changing videos for others to make an impact in our world..
+> I used CSS and HTML to build a responsive youtube page.
 
 
 ## Built With
@@ -11,12 +11,6 @@
 
 ## Live Demo [click here]
 https://wwwchampstube.netlify.app/
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
 To get a local copy up and running follow these simple example steps.
