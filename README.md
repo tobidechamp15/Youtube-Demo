@@ -10,7 +10,7 @@
 - GIT GitHub
 
 ## Live Demo [click here]
-https://wwwchampstube.netlify.app/
+https://champstube.netlify.app/
 
 
 To get a local copy up and running follow these simple example steps.
