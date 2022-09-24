@@ -2,7 +2,6 @@
 
 > I used CSS and HTML to build a responsive youtube page.
 
-
 ## Built With
 
 - HTML, CSS
@@ -10,17 +9,19 @@
 - GIT GitHub
 
 ## Live Demo [click here]
-https://champstube.netlify.app/
 
+<https://champstube.netlify.app/>
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+
 Have Vscode installed
 Liveserver
 
 ### Setup
-Clone the reprository
+
+Clone the repository
 Open with liveserver
 
 ## Author
